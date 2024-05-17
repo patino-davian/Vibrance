@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vibrance.Server", "Vibrance.Server\Vibrance.Server.csproj", "{BBFE60BB-8BEB-4D60-8393-87661C04BE20}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vibrance.client", "vibrance.client\vibrance.client.esproj", "{39F523E3-6A4D-4188-A444-E6F3AFD7483F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBFE60BB-8BEB-4D60-8393-87661C04BE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFE60BB-8BEB-4D60-8393-87661C04BE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFE60BB-8BEB-4D60-8393-87661C04BE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFE60BB-8BEB-4D60-8393-87661C04BE20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F523E3-6A4D-4188-A444-E6F3AFD7483F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F523E3-6A4D-4188-A444-E6F3AFD7483F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F523E3-6A4D-4188-A444-E6F3AFD7483F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{39F523E3-6A4D-4188-A444-E6F3AFD7483F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F523E3-6A4D-4188-A444-E6F3AFD7483F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F523E3-6A4D-4188-A444-E6F3AFD7483F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14891C4-25D1-483B-A9DF-48EC4344C348}
+	EndGlobalSection
+EndGlobal

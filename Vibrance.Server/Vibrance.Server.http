@@ -1,0 +1,6 @@
+@Vibrance.Server_HostAddress = http://localhost:5105
+
+GET {{Vibrance.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
